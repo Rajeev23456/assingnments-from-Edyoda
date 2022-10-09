@@ -1,0 +1,59 @@
+.header{
+    display: flex;
+    list-style: none;
+}
+
+nav{
+    display: flex;
+    color: white;
+    background-color: black;
+    font-size: 30px;
+}
+body{
+    background-color: gray;
+}
+li{
+    padding: 5px;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    margin-left: 20px;
+    font-weight: bolder;
+    /* padding: 10px; */
+} 
+h2{
+    font-weight: bolder;
+    /* padding: 10px; */
+}
+.images{
+    text-align: center;
+    border-radius: 20px;
+}
+#Food-1{
+    height: 400px;
+    width: 500px;
+    border-radius: 10px;
+}
+#Food-2{
+    height: 400px;
+    width: 500px;
+    border-radius: 10px;
+}
+#Food-3{
+    height: 400px;
+    width: 500px;
+    border-radius: 10px;
+}
+#Food-4{
+    height: 400px;
+    width: 500px;
+    border-radius: 10px;
+}
+#Food-5{
+    height: 400px;
+    width: 500px;
+    border-radius: 10px;
+}
